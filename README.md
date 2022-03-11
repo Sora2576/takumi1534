@@ -1,4 +1,4 @@
-a programmer for learning C
+a C / Python programmer for learning
 
 <!---
 programmer1457/programmer1457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
